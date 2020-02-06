@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+body {background-color:white}
+
+h1 {color:#EDB9D5;
+	font-family:"Sukhumvit Set Bold", "Sukhumvit Set Light", "Sukhumvit Set Medium"}
+h2 {color:#EDB9D5;
+	font-family:'Sukhumvit Set Bold', 'Sukhumvit Set Light', 'Sukhumvit Set Medium'}
+h3 {color:#EDB9D5;
+	font-family: "Sukhumvit Set Bold", "Sukhumvit Set Light", "Sukhumvit Set Medium"}
+p {color: #EDB9D5;
+font-family: "Sukhumvit Set Light"}
+
+a:link {color:#344AEF; text-decoration:none; 
+	font-family:"Sukhumvit Set Light"} 
+a:visited {color:#EDB9D5;
+	font-family: "Sukhumvit Set Light"}
+a:hover{color:#EDB9D5;
+	font-family: "Sukhumvit Set Light"}
+a:active {color:#344AEF;
+	font-family: "Sukhumvit Set Light"}
